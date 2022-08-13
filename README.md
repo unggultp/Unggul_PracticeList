@@ -1,7 +1,7 @@
 # Unggul_PracticeList
-Github Practice List URL
+Github Practice List URL:
 
-1_Ground_Vibration :
+1_Ground_Vibration 
 https://github.com/kamleshiitb/Ground-Vibration-Prediction-in-blasting-using-Neural-Network/blob/main/Ground_vibration_prediction_using_Neural_Network.ipynb
 
 2_Jet Engine Vibration
