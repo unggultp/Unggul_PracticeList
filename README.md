@@ -15,3 +15,6 @@ https://github.com/unpingco/Python-for-Signal-Processing
 https://github.com/ANDRIAMASINADY/Vibration-signal-processing
 https://github.com/musikalkemist/AudioSignalProcessingForML
 https://github.com/nabilazahra/MAClassifier/blob/master/MAClassifier.ipynb
+
+5_Vibratin and ML for parameter measurement 
+https://github.com/RonakSharma1/DataScience_MachineLearning
